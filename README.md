@@ -17,6 +17,7 @@
 ### Controls:
 
 Move using arrows (←↑↓→)
+
 Shoot using "q"
 
 #### Have fun!
